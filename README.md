@@ -4,11 +4,14 @@ README.md
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokanyasri6-ui&label=Profile%20views&color=0e75b6&style=flat" alt="lokanyasri6-ui" /> </p>
 
-- 🌱 I’m currently learning..
+- 🎓 Computer Science Student
+🤖 Exploring Artificial Intelligence
+💻 Building projects and improving coding skills
+📚 Always learning new technologies
 
 - 📫 How to reach me **lokanyasri6@gmali.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me
 <p align="left">
 </p>
 
