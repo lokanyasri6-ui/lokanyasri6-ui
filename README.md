@@ -11,7 +11,7 @@ README.md
 
 - 📫 How to reach me **lokanyasri6@gmali.com**
 
-<h3 align="left">Connect with me
+<h3 align="left">Connect with me:www.linkedin.com/in/tupakula-lokanya-sri-b63930393
 <p align="left">
 </p>
 
